@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<series>
+    <serie is_completed="true">
+    <title>breaking bad</title>
+    <seasons>5</seasons>
+    <geners>
+        <gener>crime</gener>
+        <gener>drama</gener>
+        <gener>thriller</gener>
+    </geners>
+    <maincast>
+        <actor>
+            <name>Bryan Cranston</name>
+            <role>Walter White</role>
+        </actor>
+        <actor>
+            <name>Aaron Paul</name>
+            <role>Walter White</role>
+        </actor>
+    </maincast>
+    <ratings>
+        <imbd>9.5</imbd>
+        <rotten_tomatoes>96</rotten_tomatoes>
+    </ratings>
+    </serie>
+    <serie is_completed="false">
+        <title>strange things</title>
+        <seasons>4</seasons>
+        <geners>
+            <gener>Science Fiction</gener>
+            <gener>drama</gener>
+            <gener>horror</gener>
+        </geners>
+        <maincast>
+            <actor>
+                <name>Millie Bobby Brown</name>
+                <role>eleven</role>
+            </actor>
+            <actor>
+                <name>Finn Wolfhard</name>
+                <role>Mike Wheeler</role>
+            </actor>
+        </maincast>
+        <ratings>
+            <imbd>8.7</imbd>
+            <rotten_tomatoes>93</rotten_tomatoes>
+        </ratings>
+        </serie>
+</series>
